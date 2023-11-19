@@ -16,8 +16,18 @@
 
 ## diagramme de séquence :
 
+### Inscription et Connexion :
 
 <img width="550" alt="Capture d’écran 2023-11-19 à 18 38 44" src="https://github.com/yassine355/GITHUB/assets/72927054/bb9b6444-bcf3-4b9f-87f8-4d0bbf6e47a4">
+
+### Création d'un Nouveau Dépôt :
+
 <img width="519" alt="Capture d’écran 2023-11-19 à 18 38 53" src="https://github.com/yassine355/GITHUB/assets/72927054/b48832b7-9705-4676-9c44-e3061cce19df">
+
+### Collaboration sur une Pull Request :
+
 <img width="643" alt="Capture d’écran 2023-11-19 à 18 39 03" src="https://github.com/yassine355/GITHUB/assets/72927054/9bd0d360-5ce5-4be0-990a-bdabfc7017df">
+
+### Suivi d'un Problème (Issue) : 
+
 <img width="706" alt="Capture d’écran 2023-11-19 à 18 39 12" src="https://github.com/yassine355/GITHUB/assets/72927054/2f033c05-1651-4947-a383-7802ce5fc8e3">
